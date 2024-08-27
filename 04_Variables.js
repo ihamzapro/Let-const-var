@@ -10,3 +10,5 @@ console.log(undefined > 0);
 // === Strict Check (This is also check the datatype)
 
 console.log("2" === 2);
+
+// ----------------Clean Code is important ----------------------
